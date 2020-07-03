@@ -1,0 +1,18 @@
+* {
+  --light-yellow: #fff6c8;
+  --dark-yellow: #84793f;
+  --light-green: #e0ffc8;
+  --dark-green: #5d843f;
+  --light-teal: #c8fff2;
+  --dark-teal: #3e8473;
+  --light-blue: #C8F2FF;
+  --dark-blue: #3F7485;
+  --light-purple: #C8DBFF;
+  --dark-purple: #3F5785;
+  --light-violet: #E0C8FF;
+  --dark-violet: #5C3D84;
+  --light-red: #FFC8C8;
+  --dark-red: #853D3D;
+  --light-orange: #FFE6C8;
+  --dark-orange: #86543F;
+}
